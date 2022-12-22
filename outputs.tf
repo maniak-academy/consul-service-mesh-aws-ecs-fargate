@@ -1,4 +1,4 @@
-output "client_lb_address" {
+output "Web_App_FrontEnd" {
   value = "http://${aws_lb.example_client_app.dns_name}"
 }
 
