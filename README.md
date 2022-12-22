@@ -1,6 +1,8 @@
 # consul-service-mesh-aws-ecs-fargate
 The following is a demo to run Consul Service Mesh in AWS ECS-Fargate 
 
+![title](./images/assets.png)
+
 Service Mesh
 Using Consul on AWS ECS enables you to add your ECS tasks to the service mesh and take advantage of features such as zero-trust-security, intentions, observability, traffic policy, and more. You can also connect service meshes so that services deployed across your infrastructure environments can communicate.
 
